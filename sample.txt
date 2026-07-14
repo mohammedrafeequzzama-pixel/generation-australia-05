@@ -1,0 +1,6 @@
+this is the first file created in git bash
+cat sample.txt
+git init
+
+
+[A[AThis is my first line in git
